@@ -1,0 +1,109 @@
+body {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  color: #333;
+  background-color: #ffffff;
+}
+
+h2 {
+  font-size: 26px; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #4a4a4a;
+}
+
+#year-select {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background-color: white;
+  font-size: 16px;
+  color: #333;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.text-container {
+  width: 40%;
+  padding: 20px;
+  font-size: 18px;
+  line-height: 1.6; 
+}
+
+.charts-container {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  padding-left: 50px; 
+  gap: 20px;
+}
+
+#bar-chart,
+#pie-chart,
+#vega-lite-bar-chart,
+#scatterplot {
+  width: 100%;
+  min-height: 400px;
+  display: inline-block;
+}
+
+#bar-chart svg,
+#pie-chart svg,
+#scatterplot svg {
+  width: 100%;
+  height: auto;
+  max-width: 450px;
+  display: block;
+  margin: auto;
+}
+
+.legend text {
+  font-size: 12px;
+  color: #333;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.highlight-trigger {
+  background-color: #d8ffb1;
+  color: #000000;
+}
+
+a {
+  border-bottom: 2px solid #40e0d0;
+  color: #052d3f;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  background-position: 0 calc(100% - 1.5px);
+  border-bottom: none;
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%2340E0D0' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  background-size: auto 4px;
+  border-bottom: 0;
+  padding-bottom: 0.25em;
+  text-decoration: none;
+  cursor: pointer;
+}

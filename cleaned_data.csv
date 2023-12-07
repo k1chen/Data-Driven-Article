@@ -1,0 +1,732 @@
+Year,ID,Enrollment_Status,BIPOC,Household_Size,Unnamed: 5,rowNum,colNum,Free_Or_Red
+2021,555240,Unenrolled,All White,Multiple children,,2,1236,All Paid
+2021,555798,Unenrolled,All White,Multiple children,,4,270,All FRL
+2021,555368,Unenrolled,All White,Multiple children,,6,1285,All FRL
+2021,3331241,Enrolled,All White,Multiple children,,7,954,All FRL
+2021,555473,Unenrolled,All White,Multiple children,,8,1174,All Paid
+2021,333728,Enrolled,At least one BIPOC,Single child,,9,428,All FRL
+2021,333328,Enrolled,At least one BIPOC,Multiple children,,10,1124,All Paid
+2021,555294,Unenrolled,At least one BIPOC,Multiple children,,11,1206,All FRL
+2021,777660,Unenrolled,All White,Single child,,13,1714,All FRL
+2021,777490,Unenrolled,At least one BIPOC,Single child,,14,82,All Paid
+2021,333366,Enrolled,All White,Multiple children,,15,724,All FRL
+2021,777411,Unenrolled,All White,Single child,,16,293,All FRL
+2021,999572,Unenrolled,At least one BIPOC,Single child,,18,399,All Paid
+2021,3333185,Enrolled,All White,Single child,,19,247,All FRL
+2021,3332827,Enrolled,At least one BIPOC,Multiple children,,21,1991,All Paid
+2021,3331296,Enrolled,At least one BIPOC,Single child,,22,1192,All FRL
+2021,3333172,Enrolled,All White,Single child,,23,50,All FRL
+2021,999600,Unenrolled,At least one BIPOC,Multiple children,,24,893,All FRL
+2021,999570,Unenrolled,All White,Single child,,25,1206,All FRL
+2021,3333298,Enrolled,At least one BIPOC,Single child,,26,566,All FRL
+2021,3333615,Enrolled,At least one BIPOC,Multiple children,,27,66,All Paid
+2021,333324,Enrolled,All White,Single child,,28,1486,All FRL
+2021,777761,Unenrolled,All White,Single child,,30,890,All Paid
+2021,7771070,Unenrolled,At least one BIPOC,Single child,,31,789,All FRL
+2021,3331610,Enrolled,At least one BIPOC,Multiple children,,32,1385,All FRL
+2021,7771187,Unenrolled,At least one BIPOC,Multiple children,,33,1244,All Paid
+2021,7771938,Unenrolled,All White,Multiple children,,34,883,All FRL
+2021,7771469,Unenrolled,All White,Multiple children,,35,223,All FRL
+2021,77743,Unenrolled,All White,Single child,,36,706,All FRL
+2021,3331067,Enrolled,At least one BIPOC,Multiple children,,37,1047,All FRL
+2021,3332107,Enrolled,All White,Single child,,38,623,All FRL
+2021,7771462,Unenrolled,At least one BIPOC,Multiple children,,39,1055,All FRL
+2021,777409,Unenrolled,All White,Single child,,40,1985,All FRL
+2021,3332618,Enrolled,At least one BIPOC,Multiple children,,41,520,All Paid
+2021,777677,Unenrolled,At least one BIPOC,Single child,,42,1777,All FRL
+2021,3331310,Enrolled,At least one BIPOC,Multiple children,,43,1324,All FRL
+2021,777501,Unenrolled,All White,Multiple children,,44,1387,All FRL
+2021,7771380,Unenrolled,At least one BIPOC,Single child,,45,1264,All FRL
+2021,555690,Unenrolled,At least one BIPOC,Multiple children,,47,1408,All FRL
+2021,555832,Unenrolled,All White,Single child,,50,559,All FRL
+2021,777893,Unenrolled,At least one BIPOC,Multiple children,,51,1617,All FRL
+2021,555942,Unenrolled,At least one BIPOC,Multiple children,,52,1464,All Paid
+2021,777342,Unenrolled,At least one BIPOC,Single child,,53,764,All FRL
+2021,999108,Unenrolled,All White,Single child,,54,1355,All FRL
+2021,7771357,Unenrolled,At least one BIPOC,Single child,,55,1180,All FRL
+2021,7771604,Unenrolled,At least one BIPOC,Single child,,56,924,All Paid
+2021,999438,Unenrolled,At least one BIPOC,Single child,,57,962,All FRL
+2021,55589,Unenrolled,All White,Multiple children,,58,740,All Paid
+2021,555632,Unenrolled,All White,Single child,,60,1371,All FRL
+2021,7771812,Unenrolled,All White,Single child,,61,626,All Paid
+2021,777199,Unenrolled,At least one BIPOC,Multiple children,,62,199,All FRL
+2021,999891,Unenrolled,All White,Single child,,63,1498,All FRL
+2021,7772008,Unenrolled,At least one BIPOC,Single child,,64,307,All Paid
+2021,7771124,Unenrolled,All White,Single child,,65,1242,All FRL
+2021,5551066,Unenrolled,At least one BIPOC,Multiple children,,66,866,All Paid
+2021,77775,Unenrolled,All White,Multiple children,,67,299,All FRL
+2021,999694,Unenrolled,All White,Single child,,68,233,All FRL
+2021,5551120,Unenrolled,All White,Multiple children,,69,1720,All FRL
+2021,555954,Unenrolled,At least one BIPOC,Multiple children,,70,254,All FRL
+2021,777613,Unenrolled,At least one BIPOC,Single child,,71,1622,All Paid
+2021,555884,Unenrolled,All White,Single child,,73,611,All FRL
+2021,7771890,Unenrolled,At least one BIPOC,Single child,,74,589,All FRL
+2021,555612,Unenrolled,At least one BIPOC,Single child,,75,525,All FRL
+2021,55578,Unenrolled,All White,Single child,,76,1548,All FRL
+2021,7771529,Unenrolled,At least one BIPOC,Multiple children,,77,1440,All FRL
+2021,555603,Unenrolled,At least one BIPOC,Multiple children,,78,1512,All Paid
+2021,777293,Unenrolled,At least one BIPOC,Multiple children,,79,999,All Paid
+2021,555617,Unenrolled,All White,Multiple children,,80,1542,All FRL
+2021,555599,Unenrolled,All White,Multiple children,,82,1025,All FRL
+2021,7771562,Unenrolled,At least one BIPOC,Single child,,83,1902,All Paid
+2021,5551239,Unenrolled,All White,Multiple children,,84,244,All Paid
+2021,555895,Unenrolled,At least one BIPOC,Single child,,88,874,All FRL
+2021,5551217,Unenrolled,All White,Multiple children,,89,1563,All FRL
+2021,7771734,Unenrolled,At least one BIPOC,Single child,,90,1627,All Paid
+2021,777285,Unenrolled,All White,Multiple children,,91,113,All FRL
+2021,555387,Unenrolled,At least one BIPOC,Single child,,93,493,All Paid
+2021,555480,Unenrolled,All White,Multiple children,,94,480,All FRL
+2021,7771495,Unenrolled,All White,Multiple children,,95,1700,All FRL
+2021,777713,Unenrolled,At least one BIPOC,Single child,,97,1709,All Paid
+2021,999689,Unenrolled,At least one BIPOC,Single child,,98,427,All Paid
+2021,777105,Unenrolled,All White,Multiple children,,99,1660,All FRL
+2021,999908,Unenrolled,At least one BIPOC,Single child,,100,762,All FRL
+2021,7771883,Unenrolled,At least one BIPOC,Multiple children,,101,58,All FRL
+2021,999801,Unenrolled,At least one BIPOC,Single child,,102,542,All FRL
+2021,7771030,Unenrolled,At least one BIPOC,Single child,,103,1950,All FRL
+2021,7771638,Unenrolled,At least one BIPOC,Multiple children,,104,1185,All FRL
+2021,7771279,Unenrolled,At least one BIPOC,Multiple children,,105,1628,All Paid
+2021,9991016,Unenrolled,All White,Single child,,106,185,All Paid
+2021,7771323,Unenrolled,All White,Multiple children,,107,979,All Paid
+2021,7771005,Unenrolled,All White,Multiple children,,108,241,All Paid
+2021,999508,Unenrolled,At least one BIPOC,Multiple children,,109,157,All FRL
+2021,9991315,Unenrolled,All White,Multiple children,,111,542,All FRL
+2021,7771625,Unenrolled,All White,Multiple children,,112,1392,All FRL
+2021,555400,Unenrolled,All White,Single child,,113,1387,All FRL
+2021,777782,Unenrolled,All White,Single child,,114,1435,All Paid
+2021,9993,Unenrolled,At least one BIPOC,Multiple children,,115,1439,All FRL
+2021,3333079,Enrolled,At least one BIPOC,Single child,,116,1654,All Paid
+2021,7771782,Unenrolled,At least one BIPOC,Single child,,117,548,All Paid
+2021,777565,Unenrolled,All White,Single child,,118,1349,All FRL
+2021,9991052,Unenrolled,All White,Single child,,120,252,All FRL
+2021,5551248,Unenrolled,At least one BIPOC,Multiple children,,121,1874,All FRL
+2021,333855,Enrolled,At least one BIPOC,Single child,,122,908,All Paid
+2021,777890,Unenrolled,At least one BIPOC,Multiple children,,123,1710,All FRL
+2021,333128,Enrolled,At least one BIPOC,Multiple children,,124,981,All Paid
+2021,333341,Enrolled,At least one BIPOC,Multiple children,,125,1323,All Paid
+2021,555569,Unenrolled,All White,Multiple children,,126,1081,All Paid
+2021,555630,Unenrolled,All White,Multiple children,,128,1819,All FRL
+2021,999397,Unenrolled,All White,Single child,,129,1087,All Paid
+2021,555746,Unenrolled,All White,Single child,,131,499,All Paid
+2021,555837,Unenrolled,At least one BIPOC,Single child,,132,1796,All FRL
+2021,555234,Unenrolled,All White,Single child,,133,770,All Paid
+2021,555386,Unenrolled,All White,Single child,,134,1244,All FRL
+2021,555857,Unenrolled,All White,Multiple children,,135,141,All FRL
+2021,3331686,Enrolled,At least one BIPOC,Multiple children,,136,974,All FRL
+2021,777602,Unenrolled,All White,Single child,,138,1057,All Paid
+2021,777472,Unenrolled,At least one BIPOC,Single child,,139,1359,All FRL
+2021,7771149,Unenrolled,At least one BIPOC,Single child,,140,182,All FRL
+2021,555206,Unenrolled,All White,Single child,,141,1175,All Paid
+2021,555656,Unenrolled,At least one BIPOC,Multiple children,,142,1326,All FRL
+2021,777760,Unenrolled,At least one BIPOC,Multiple children,,143,1182,All Paid
+2021,5551281,Unenrolled,All White,Single child,,145,1339,All Paid
+2021,3332963,Enrolled,At least one BIPOC,Multiple children,,146,599,All FRL
+2021,555352,Unenrolled,All White,Multiple children,,147,1072,All FRL
+2021,7771656,Unenrolled,At least one BIPOC,Single child,,148,1107,All FRL
+2021,5551012,Unenrolled,All White,Multiple children,,149,583,All Paid
+2021,555815,Unenrolled,At least one BIPOC,Single child,,151,564,All Paid
+2021,3331175,Enrolled,All White,Multiple children,,152,774,All FRL
+2021,555805,Unenrolled,At least one BIPOC,Multiple children,,153,293,All FRL
+2021,555699,Unenrolled,At least one BIPOC,Multiple children,,154,744,All FRL
+2021,555309,Unenrolled,All White,Multiple children,,155,1079,All FRL
+2021,555729,Unenrolled,At least one BIPOC,Single child,,156,963,All FRL
+2021,55585,Unenrolled,At least one BIPOC,Single child,,157,1024,All Paid
+2021,7771261,Unenrolled,At least one BIPOC,Multiple children,,158,1507,All FRL
+2021,777973,Unenrolled,At least one BIPOC,Multiple children,,159,1790,All FRL
+2021,555518,Unenrolled,All White,Single child,,160,976,All Paid
+2021,555735,Unenrolled,All White,Multiple children,,161,1097,All FRL
+2021,55583,Unenrolled,All White,Multiple children,,162,1927,All Paid
+2021,5551152,Unenrolled,All White,Single child,,163,1591,All FRL
+2021,7771763,Unenrolled,All White,Single child,,164,1442,All FRL
+2021,555755,Unenrolled,All White,Multiple children,,165,1783,All Paid
+2021,555511,Unenrolled,At least one BIPOC,Single child,,166,1231,All FRL
+2021,555105,Unenrolled,All White,Single child,,167,1859,All Paid
+2021,7771411,Unenrolled,All White,Multiple children,,168,1712,All FRL
+2021,777236,Unenrolled,At least one BIPOC,Single child,,169,1117,All Paid
+2021,999806,Unenrolled,At least one BIPOC,Multiple children,,170,799,All Paid
+2021,999327,Unenrolled,At least one BIPOC,Single child,,171,1739,All Paid
+2021,5551086,Unenrolled,At least one BIPOC,Multiple children,,172,1697,All FRL
+2021,555521,Unenrolled,All White,Multiple children,,174,1222,All FRL
+2021,999641,Unenrolled,At least one BIPOC,Single child,,175,982,All Paid
+2021,999872,Unenrolled,All White,Single child,,176,1706,All FRL
+2021,9991310,Unenrolled,All White,Single child,,177,1804,All Paid
+2021,7771979,Unenrolled,At least one BIPOC,Single child,,178,1863,All Paid
+2021,777867,Unenrolled,At least one BIPOC,Multiple children,,179,1872,All FRL
+2021,9991087,Unenrolled,All White,Single child,,180,1576,All Paid
+2021,999238,Unenrolled,At least one BIPOC,Single child,,181,1322,All FRL
+2021,999500,Unenrolled,All White,Single child,,182,1319,All Paid
+2021,999587,Unenrolled,At least one BIPOC,Multiple children,,183,734,All FRL
+2021,7771956,Unenrolled,At least one BIPOC,Multiple children,,185,1749,All Paid
+2021,9991090,Unenrolled,At least one BIPOC,Multiple children,,186,1323,All FRL
+2021,999696,Unenrolled,All White,Multiple children,,187,1676,All FRL
+2021,99978,Unenrolled,At least one BIPOC,Single child,,188,913,All FRL
+2021,7771365,Unenrolled,At least one BIPOC,Multiple children,,189,661,All FRL
+2021,9991249,Unenrolled,At least one BIPOC,Single child,,190,670,All Paid
+2021,99977,Unenrolled,All White,Multiple children,,191,812,All FRL
+2021,999742,Unenrolled,All White,Multiple children,,192,1539,All Paid
+2021,999456,Unenrolled,All White,Multiple children,,193,1952,All Paid
+2021,999521,Unenrolled,At least one BIPOC,Single child,,194,720,All Paid
+2021,9991339,Unenrolled,At least one BIPOC,Multiple children,,195,276,All Paid
+2021,333785,Enrolled,At least one BIPOC,Multiple children,,196,292,All FRL
+2021,3331698,Enrolled,At least one BIPOC,Multiple children,,197,1870,All FRL
+2021,777762,Unenrolled,At least one BIPOC,Multiple children,,198,962,All Paid
+2021,7771840,Unenrolled,At least one BIPOC,Multiple children,,199,871,All Paid
+2021,3331856,Enrolled,At least one BIPOC,Single child,,200,835,All Paid
+2021,777819,Unenrolled,At least one BIPOC,Single child,,202,1119,All Paid
+2021,3332298,Enrolled,All White,Multiple children,,203,845,All FRL
+2021,3333015,Enrolled,At least one BIPOC,Multiple children,,204,1438,All FRL
+2021,3332144,Enrolled,At least one BIPOC,Multiple children,,205,268,All Paid
+2021,3332505,Enrolled,At least one BIPOC,Multiple children,,206,1681,All FRL
+2021,3332972,Enrolled,All White,Multiple children,,207,1625,All FRL
+2021,7771029,Unenrolled,All White,Single child,,208,1028,All Paid
+2021,3332295,Enrolled,At least one BIPOC,Single child,,209,475,All FRL
+2021,3333412,Enrolled,All White,Multiple children,,210,1639,All Paid
+2021,999250,Unenrolled,All White,Single child,,212,702,All Paid
+2021,9991251,Unenrolled,At least one BIPOC,Single child,,213,629,All FRL
+2021,9991164,Unenrolled,All White,Multiple children,,214,1271,All FRL
+2021,777610,Unenrolled,All White,Single child,,215,385,All FRL
+2021,7771770,Unenrolled,At least one BIPOC,Multiple children,,216,1179,All FRL
+2021,999204,Unenrolled,All White,Multiple children,,217,1383,All Paid
+2021,999216,Unenrolled,All White,Single child,,218,1756,All Paid
+2021,7771450,Unenrolled,At least one BIPOC,Single child,,220,1588,All FRL
+2021,999669,Unenrolled,At least one BIPOC,Multiple children,,221,701,All FRL
+2021,7771852,Unenrolled,All White,Single child,,222,1313,All FRL
+2021,999887,Unenrolled,All White,Single child,,223,468,All FRL
+2021,9991119,Unenrolled,At least one BIPOC,Single child,,224,1859,All FRL
+2021,999608,Unenrolled,At least one BIPOC,Multiple children,,225,244,All FRL
+2021,999666,Unenrolled,At least one BIPOC,Multiple children,,228,1972,All FRL
+2021,9991234,Unenrolled,At least one BIPOC,Multiple children,,229,1938,All FRL
+2021,999704,Unenrolled,At least one BIPOC,Single child,,230,1584,All Paid
+2021,7771522,Unenrolled,All White,Single child,,231,658,All FRL
+2021,99991,Unenrolled,All White,Multiple children,,232,805,All Paid
+2021,99985,Unenrolled,At least one BIPOC,Multiple children,,233,1544,All Paid
+2021,9991107,Unenrolled,All White,Single child,,234,1294,All Paid
+2021,999564,Unenrolled,At least one BIPOC,Multiple children,,235,1743,All Paid
+2021,999410,Unenrolled,At least one BIPOC,Multiple children,,236,1918,All Paid
+2021,9991023,Unenrolled,All White,Single child,,237,629,All FRL
+2021,9991267,Unenrolled,At least one BIPOC,Multiple children,,238,1849,All Paid
+2021,999715,Unenrolled,At least one BIPOC,Single child,,239,330,All Paid
+2021,999679,Unenrolled,At least one BIPOC,Multiple children,,240,950,All Paid
+2021,777991,Unenrolled,At least one BIPOC,Single child,,241,1832,All FRL
+2021,999110,Unenrolled,At least one BIPOC,Single child,,242,579,All Paid
+2021,9991060,Unenrolled,At least one BIPOC,Single child,,244,935,All FRL
+2021,999842,Unenrolled,All White,Single child,,245,331,All Paid
+2021,7771264,Unenrolled,At least one BIPOC,Single child,,246,947,All FRL
+2021,7771031,Unenrolled,All White,Single child,,247,151,All Paid
+2021,777872,Unenrolled,At least one BIPOC,Multiple children,,248,65,All FRL
+2021,7771367,Unenrolled,All White,Multiple children,,249,667,All FRL
+2021,7771178,Unenrolled,All White,Multiple children,,250,415,All FRL
+2021,777905,Unenrolled,At least one BIPOC,Multiple children,,251,159,All FRL
+2021,7771964,Unenrolled,All White,Single child,,252,1480,All FRL
+2021,777440,Unenrolled,All White,Multiple children,,253,1659,All FRL
+2021,777567,Unenrolled,At least one BIPOC,Multiple children,,254,592,All FRL
+2021,7771838,Unenrolled,At least one BIPOC,Single child,,255,1749,All Paid
+2021,7771122,Unenrolled,At least one BIPOC,Single child,,256,437,All FRL
+2021,7771190,Unenrolled,All White,Multiple children,,258,702,All FRL
+2021,777345,Unenrolled,All White,Single child,,259,141,All FRL
+2021,777228,Unenrolled,At least one BIPOC,Single child,,260,631,All Paid
+2021,7771443,Unenrolled,At least one BIPOC,Multiple children,,261,1874,All FRL
+2021,7771904,Unenrolled,At least one BIPOC,Single child,,262,743,All FRL
+2021,3333270,Enrolled,At least one BIPOC,Multiple children,,263,693,All FRL
+2021,333633,Enrolled,At least one BIPOC,Multiple children,,264,838,All Paid
+2021,3333556,Enrolled,At least one BIPOC,Multiple children,,265,1144,All Paid
+2021,3331293,Enrolled,At least one BIPOC,Multiple children,,266,1840,All FRL
+2021,333874,Enrolled,All White,Single child,,267,1312,All Paid
+2021,3331047,Enrolled,At least one BIPOC,Multiple children,,268,1452,All FRL
+2021,3331575,Enrolled,At least one BIPOC,Multiple children,,269,971,All FRL
+2021,333343,Enrolled,All White,Multiple children,,270,1650,All Paid
+2021,3332586,Enrolled,At least one BIPOC,Multiple children,,271,73,All FRL
+2021,333176,Enrolled,At least one BIPOC,Multiple children,,272,1680,All Paid
+2021,3332351,Enrolled,At least one BIPOC,Multiple children,,274,986,All FRL
+2021,33370,Enrolled,At least one BIPOC,Single child,,275,1116,All FRL
+2021,3333066,Enrolled,At least one BIPOC,Multiple children,,276,1604,All FRL
+2021,3331004,Enrolled,At least one BIPOC,Multiple children,,277,243,All FRL
+2021,3333575,Enrolled,At least one BIPOC,Multiple children,,278,1434,All Paid
+2021,3331639,Enrolled,At least one BIPOC,Multiple children,,280,1568,All FRL
+2021,3331055,Enrolled,At least one BIPOC,Multiple children,,281,1373,All FRL
+2021,3331920,Enrolled,At least one BIPOC,Multiple children,,282,1899,All FRL
+2021,333453,Enrolled,At least one BIPOC,Multiple children,,283,1233,All FRL
+2021,3333127,Enrolled,At least one BIPOC,Multiple children,,284,769,All FRL
+2021,3331581,Enrolled,At least one BIPOC,Multiple children,,285,1730,All FRL
+2021,3332393,Enrolled,At least one BIPOC,Single child,,286,1281,All Paid
+2021,333947,Enrolled,At least one BIPOC,Single child,,287,1914,All FRL
+2021,3333062,Enrolled,At least one BIPOC,Single child,,288,911,All FRL
+2021,3332874,Enrolled,At least one BIPOC,Multiple children,,289,1570,All FRL
+2021,333684,Enrolled,At least one BIPOC,Single child,,290,1346,All FRL
+2021,3333009,Enrolled,At least one BIPOC,Multiple children,,291,703,All Paid
+2021,3332891,Enrolled,All White,Single child,,292,113,All FRL
+2021,3331388,Enrolled,At least one BIPOC,Multiple children,,293,1475,All FRL
+2021,3333071,Enrolled,All White,Multiple children,,294,318,All FRL
+2021,3331339,Enrolled,All White,Single child,,296,844,All Paid
+2021,3331164,Enrolled,At least one BIPOC,Multiple children,,297,1842,All FRL
+2021,3332552,Enrolled,At least one BIPOC,Multiple children,,298,1306,All FRL
+2021,3333450,Enrolled,At least one BIPOC,Multiple children,,299,1239,All FRL
+2021,3331825,Enrolled,At least one BIPOC,Multiple children,,301,1278,All FRL
+2021,3331010,Enrolled,At least one BIPOC,Multiple children,,302,259,All FRL
+2021,3331560,Enrolled,All White,Single child,,303,415,All Paid
+2021,3332809,Enrolled,All White,Multiple children,,304,1757,All FRL
+2021,3331886,Enrolled,At least one BIPOC,Multiple children,,305,579,All FRL
+2021,3331129,Enrolled,At least one BIPOC,Single child,,307,458,All Paid
+2021,3331959,Enrolled,All White,Multiple children,,308,1614,All Paid
+2021,3331741,Enrolled,At least one BIPOC,Single child,,309,100,All FRL
+2021,3331734,Enrolled,At least one BIPOC,Multiple children,,310,800,All FRL
+2021,3331666,Enrolled,At least one BIPOC,Single child,,311,979,All FRL
+2021,333308,Enrolled,At least one BIPOC,Multiple children,,312,293,All FRL
+2021,3333571,Enrolled,All White,Multiple children,,313,1292,All FRL
+2021,3331448,Enrolled,All White,Multiple children,,314,348,All FRL
+2021,3332161,Enrolled,At least one BIPOC,Multiple children,,315,403,All Paid
+2021,3333072,Enrolled,At least one BIPOC,Single child,,316,1279,All Paid
+2021,3331651,Enrolled,At least one BIPOC,Multiple children,,317,1178,All FRL
+2021,3333233,Enrolled,At least one BIPOC,Single child,,318,828,All Paid
+2021,3331982,Enrolled,At least one BIPOC,Multiple children,,319,1874,All FRL
+2021,3333391,Enrolled,At least one BIPOC,Multiple children,,320,1530,All FRL
+2021,333244,Enrolled,All White,Multiple children,,322,753,All FRL
+2021,3333078,Enrolled,At least one BIPOC,Multiple children,,323,1563,All FRL
+2021,3333393,Enrolled,At least one BIPOC,Multiple children,,324,440,All FRL
+2021,3331903,Enrolled,All White,Multiple children,,325,1545,All FRL
+2021,333825,Enrolled,At least one BIPOC,Single child,,326,1583,All FRL
+2021,333431,Enrolled,At least one BIPOC,Multiple children,,327,1489,All FRL
+2021,3331866,Enrolled,At least one BIPOC,Single child,,328,528,All FRL
+2021,3332965,Enrolled,At least one BIPOC,Multiple children,,329,481,All FRL
+2021,3331020,Enrolled,All White,Single child,,330,197,All Paid
+2021,3331394,Enrolled,At least one BIPOC,Multiple children,,331,1821,All FRL
+2021,3332818,Enrolled,At least one BIPOC,Single child,,332,129,All Paid
+2021,3331967,Enrolled,At least one BIPOC,Multiple children,,334,556,All Paid
+2021,333852,Enrolled,All White,Multiple children,,335,1370,All FRL
+2021,3332819,Enrolled,At least one BIPOC,Single child,,336,1860,All Paid
+2021,3331580,Enrolled,At least one BIPOC,Multiple children,,337,760,All Paid
+2021,333881,Enrolled,At least one BIPOC,Multiple children,,340,1849,All Paid
+2021,3331341,Enrolled,All White,Multiple children,,341,652,All FRL
+2021,333615,Enrolled,All White,Multiple children,,343,1899,All FRL
+2021,3331278,Enrolled,All White,Multiple children,,344,1886,All Paid
+2021,3331735,Enrolled,At least one BIPOC,Multiple children,,345,1639,All FRL
+2021,3333503,Enrolled,At least one BIPOC,Single child,,347,469,All Paid
+2021,3333114,Enrolled,At least one BIPOC,Single child,,348,1999,All FRL
+2021,3332494,Enrolled,At least one BIPOC,Single child,,349,1188,All Paid
+2021,3333350,Enrolled,At least one BIPOC,Multiple children,,350,1208,All FRL
+2021,3333268,Enrolled,At least one BIPOC,Multiple children,,351,1946,All FRL
+2021,3332397,Enrolled,All White,Multiple children,,352,883,All FRL
+2021,3333521,Enrolled,At least one BIPOC,Single child,,353,1285,All Paid
+2021,333222,Enrolled,At least one BIPOC,Multiple children,,354,1426,All FRL
+2021,3331939,Enrolled,At least one BIPOC,Multiple children,,355,1226,All FRL
+2021,333468,Enrolled,At least one BIPOC,Single child,,356,298,All FRL
+2021,333314,Enrolled,All White,Multiple children,,357,61,All FRL
+2021,3331568,Enrolled,All White,Multiple children,,358,414,All Paid
+2021,3331269,Enrolled,At least one BIPOC,Multiple children,,359,209,All Paid
+2021,33389,Enrolled,At least one BIPOC,Single child,,361,717,All FRL
+2021,333883,Enrolled,At least one BIPOC,Multiple children,,362,959,All FRL
+2021,333493,Enrolled,At least one BIPOC,Single child,,363,861,All FRL
+2021,333316,Enrolled,All White,Multiple children,,364,1805,All FRL
+2021,3333190,Enrolled,At least one BIPOC,Single child,,365,544,All Paid
+2021,3332218,Enrolled,At least one BIPOC,Multiple children,,366,797,All FRL
+2021,333694,Enrolled,At least one BIPOC,Multiple children,,367,458,All FRL
+2021,333819,Enrolled,All White,Single child,,368,230,All Paid
+2021,3333001,Enrolled,All White,Single child,,370,338,All FRL
+2021,3331062,Enrolled,At least one BIPOC,Multiple children,,371,1432,All FRL
+2021,333311,Enrolled,At least one BIPOC,Multiple children,,372,1988,All FRL
+2021,333853,Enrolled,At least one BIPOC,Multiple children,,373,1417,All FRL
+2021,3331407,Enrolled,All White,Multiple children,,374,90,All Paid
+2021,3332836,Enrolled,At least one BIPOC,Single child,,375,1330,All Paid
+2021,333121,Enrolled,At least one BIPOC,Multiple children,,376,753,All FRL
+2021,333835,Enrolled,At least one BIPOC,Multiple children,,377,1766,All FRL
+2021,333126,Enrolled,At least one BIPOC,Multiple children,,378,1875,All FRL
+2021,3333129,Enrolled,At least one BIPOC,Multiple children,,379,1848,All FRL
+2021,33340,Enrolled,All White,Single child,,380,1036,All FRL
+2021,333734,Enrolled,At least one BIPOC,Single child,,381,1160,All FRL
+2021,3331112,Enrolled,At least one BIPOC,Single child,,382,1859,All FRL
+2021,3331567,Enrolled,All White,Multiple children,,383,588,All FRL
+2021,333408,Enrolled,At least one BIPOC,Multiple children,,384,1689,All FRL
+2021,3332027,Enrolled,All White,Multiple children,,385,205,All Paid
+2021,3332495,Enrolled,At least one BIPOC,Multiple children,,388,456,All FRL
+2021,3333308,Enrolled,All White,Single child,,389,1506,All FRL
+2021,3332082,Enrolled,At least one BIPOC,Multiple children,,390,621,All Paid
+2021,3331794,Enrolled,At least one BIPOC,Multiple children,,391,395,All FRL
+2021,3331069,Enrolled,At least one BIPOC,Single child,,392,1752,All Paid
+2021,3331960,Enrolled,At least one BIPOC,Single child,,393,1905,All FRL
+2021,3332727,Enrolled,At least one BIPOC,Single child,,394,738,All FRL
+2021,333279,Enrolled,At least one BIPOC,Multiple children,,397,1991,All FRL
+2021,33343,Enrolled,At least one BIPOC,Single child,,398,1878,All Paid
+2021,333545,Enrolled,All White,Multiple children,,399,394,All FRL
+2021,333551,Enrolled,At least one BIPOC,Single child,,400,506,All Paid
+2021,3332162,Enrolled,At least one BIPOC,Single child,,401,943,All FRL
+2021,333368,Enrolled,At least one BIPOC,Multiple children,,402,1152,All FRL
+2021,3332157,Enrolled,At least one BIPOC,Multiple children,,403,1493,All FRL
+2021,3331467,Enrolled,At least one BIPOC,Multiple children,,404,1677,All FRL
+2021,33317,Enrolled,At least one BIPOC,Multiple children,,405,613,All FRL
+2021,3333415,Enrolled,At least one BIPOC,Multiple children,,406,1867,All FRL
+2021,3333550,Enrolled,At least one BIPOC,Multiple children,,407,941,All FRL
+2021,3331280,Enrolled,At least one BIPOC,Multiple children,,409,545,All FRL
+2021,333307,Enrolled,At least one BIPOC,Single child,,410,1527,All Paid
+2021,3333285,Enrolled,At least one BIPOC,Multiple children,,411,1667,All FRL
+2021,3331761,Enrolled,All White,Single child,,413,1049,All Paid
+2021,3332306,Enrolled,At least one BIPOC,Single child,,414,1439,All FRL
+2021,3331843,Enrolled,At least one BIPOC,Multiple children,,415,567,All Paid
+2021,3331685,Enrolled,All White,Single child,,416,1834,All FRL
+2022,171,Enrolled,At least one BIPOC,Single child,,1,1954,All Paid
+2022,253,Enrolled,At least one BIPOC,Multiple children,,2,798,All Paid
+2022,422,Enrolled,At least one BIPOC,Single child,,3,669,All Paid
+2022,471,Enrolled,At least one BIPOC,Multiple children,,4,192,All FRL
+2022,609,Enrolled,At least one BIPOC,Single child,,5,325,All FRL
+2022,775,Enrolled,At least one BIPOC,Single child,,6,1640,All Paid
+2022,833,Enrolled,All White,Multiple children,,7,987,All Paid
+2022,899,Enrolled,At least one BIPOC,Multiple children,,8,772,All Paid
+2022,1003,Enrolled,At least one BIPOC,Multiple children,,9,1295,All Paid
+2022,1036,Enrolled,All White,Single child,,10,950,All Paid
+2022,589,Enrolled,All White,Multiple children,,11,1825,All Paid
+2022,716,Enrolled,At least one BIPOC,Multiple children,,12,536,All Paid
+2022,144,Unenrolled,At least one BIPOC,Single child,,13,916,All Paid
+2022,265,Unenrolled,At least one BIPOC,Multiple children,,14,103,All FRL
+2022,836,Enrolled,At least one BIPOC,Multiple children,,15,1124,All Paid
+2022,450,Enrolled,All White,Single child,,16,1949,All FRL
+2022,492,Enrolled,At least one BIPOC,Single child,,17,888,All Paid
+2022,604,Enrolled,All White,Multiple children,,18,1192,All Paid
+2022,739,Enrolled,At least one BIPOC,Multiple children,,19,1818,All FRL
+2022,119,Unenrolled,All White,Single child,,20,1957,All Paid
+2022,367,Unenrolled,All White,Single child,,21,390,All Paid
+2022,129,Unenrolled,All White,Multiple children,,22,1722,All Paid
+2022,383,Enrolled,At least one BIPOC,Single child,,23,688,All Paid
+2022,414,Enrolled,All White,Multiple children,,24,82,All FRL
+2022,463,Enrolled,At least one BIPOC,Single child,,25,1197,All Paid
+2022,28,Unenrolled,At least one BIPOC,Single child,,26,1653,All Paid
+2022,102,Unenrolled,At least one BIPOC,Single child,,27,1975,All Paid
+2022,208,Unenrolled,All White,Single child,,28,513,All Paid
+2022,296,Unenrolled,All White,Multiple children,,29,1789,All Paid
+2022,365,Unenrolled,All White,Multiple children,,30,1369,All Paid
+2022,398,Unenrolled,All White,Multiple children,,31,1002,All FRL
+2022,476,Enrolled,At least one BIPOC,Single child,,32,1448,All FRL
+2022,532,Enrolled,At least one BIPOC,Multiple children,,33,1042,All FRL
+2022,649,Enrolled,At least one BIPOC,Single child,,34,768,All Paid
+2022,881,Enrolled,At least one BIPOC,Multiple children,,35,993,All Paid
+2022,922,Unenrolled,All White,Single child,,36,905,All Paid
+2022,952,Unenrolled,At least one BIPOC,Single child,,37,541,All Paid
+2022,994,Unenrolled,All White,Single child,,38,910,All Paid
+2022,1025,Unenrolled,All White,Multiple children,,39,1359,All Paid
+2022,1046,Unenrolled,At least one BIPOC,Multiple children,,40,1838,All Paid
+2022,99,Unenrolled,At least one BIPOC,Single child,,41,64,All Paid
+2022,165,Unenrolled,All White,Single child,,42,639,All FRL
+2022,218,Unenrolled,At least one BIPOC,Single child,,43,704,All Paid
+2022,454,Unenrolled,All White,Multiple children,,44,502,All Paid
+2022,540,Unenrolled,At least one BIPOC,Single child,,45,1822,All FRL
+2022,602,Unenrolled,At least one BIPOC,Multiple children,,46,110,All Paid
+2022,652,Unenrolled,At least one BIPOC,Multiple children,,47,984,All Paid
+2022,829,Unenrolled,At least one BIPOC,Single child,,48,353,All Paid
+2022,895,Unenrolled,At least one BIPOC,Single child,,49,1930,All Paid
+2022,951,Unenrolled,At least one BIPOC,Single child,,50,410,All FRL
+2022,1042,Unenrolled,At least one BIPOC,Single child,,51,1103,All Paid
+2022,142,Enrolled,At least one BIPOC,Multiple children,,53,162,All Paid
+2022,206,Enrolled,At least one BIPOC,Multiple children,,54,1845,All FRL
+2022,442,Enrolled,At least one BIPOC,Multiple children,,55,557,All FRL
+2022,114,Enrolled,At least one BIPOC,Single child,,56,1774,All FRL
+2022,577,Enrolled,At least one BIPOC,Multiple children,,57,1990,All FRL
+2022,742,Enrolled,At least one BIPOC,Single child,,58,1962,All Paid
+2022,975,Enrolled,All White,Multiple children,,60,86,All Paid
+2022,113,Unenrolled,All White,Multiple children,,61,1702,All Paid
+2022,164,Unenrolled,At least one BIPOC,Multiple children,,62,616,All Paid
+2022,348,Enrolled,All White,Multiple children,,63,1808,All Paid
+2022,562,Enrolled,At least one BIPOC,Multiple children,,64,1143,All FRL
+2022,735,Enrolled,At least one BIPOC,Multiple children,,65,1168,All FRL
+2022,845,Enrolled,All White,Multiple children,,66,1262,All Paid
+2022,926,Enrolled,All White,Single child,,67,377,All Paid
+2022,1306,Enrolled,At least one BIPOC,Multiple children,,68,1725,All FRL
+2022,1395,Enrolled,At least one BIPOC,Single child,,69,241,All Paid
+2022,1471,Enrolled,At least one BIPOC,Multiple children,,70,1423,All FRL
+2022,1647,Enrolled,At least one BIPOC,Single child,,72,1941,All FRL
+2022,1895,Enrolled,At least one BIPOC,Multiple children,,73,1396,All FRL
+2022,1346,Unenrolled,At least one BIPOC,Multiple children,,74,1630,All Paid
+2022,1399,Unenrolled,At least one BIPOC,Multiple children,,75,413,All FRL
+2022,1459,Unenrolled,At least one BIPOC,Multiple children,,76,1449,All Paid
+2022,1584,Enrolled,At least one BIPOC,Multiple children,,78,786,All FRL
+2022,1149,Unenrolled,At least one BIPOC,Single child,,79,1668,All Paid
+2022,420,Unenrolled,At least one BIPOC,Single child,,80,1969,All FRL
+2022,1069,Unenrolled,All White,Multiple children,,81,687,All Paid
+2022,1070,Unenrolled,All White,Single child,,82,949,All Paid
+2022,1080,Unenrolled,At least one BIPOC,Multiple children,,83,1879,All Paid
+2022,1150,Unenrolled,At least one BIPOC,Single child,,84,1123,All FRL
+2022,1219,Unenrolled,At least one BIPOC,Single child,,85,61,All Paid
+2022,1257,Unenrolled,All White,Multiple children,,86,374,All Paid
+2022,1293,Unenrolled,All White,Multiple children,,87,1895,All Paid
+2022,1384,Unenrolled,All White,Multiple children,,88,1988,All FRL
+2022,1624,Unenrolled,At least one BIPOC,Single child,,89,883,All FRL
+2022,1655,Unenrolled,At least one BIPOC,Single child,,90,1237,All Paid
+2022,1671,Unenrolled,All White,Single child,,91,1291,All FRL
+2022,1772,Unenrolled,All White,Single child,,92,602,All Paid
+2022,1807,Unenrolled,All White,Single child,,93,1272,All Paid
+2022,1845,Unenrolled,All White,Single child,,94,334,All Paid
+2022,1887,Enrolled,At least one BIPOC,Single child,,95,801,All FRL
+2022,1111,Unenrolled,At least one BIPOC,Single child,,96,327,All FRL
+2022,1157,Unenrolled,At least one BIPOC,Multiple children,,97,1975,All Paid
+2022,1171,Unenrolled,At least one BIPOC,Multiple children,,98,1568,All FRL
+2022,1206,Unenrolled,All White,Multiple children,,99,1039,All Paid
+2022,1270,Unenrolled,At least one BIPOC,Multiple children,,100,1560,All FRL
+2022,1383,Unenrolled,At least one BIPOC,Multiple children,,101,1603,All Paid
+2022,1456,Unenrolled,All White,Single child,,102,130,All Paid
+2022,1592,Unenrolled,At least one BIPOC,Single child,,103,1995,All Paid
+2022,1631,Unenrolled,All White,Multiple children,,104,741,All FRL
+2022,1663,Unenrolled,At least one BIPOC,Single child,,105,1887,All Paid
+2022,1689,Unenrolled,All White,Single child,,106,583,All FRL
+2022,1815,Unenrolled,At least one BIPOC,Single child,,108,1611,All Paid
+2022,1866,Enrolled,All White,Single child,,109,440,All FRL
+2022,1898,Enrolled,All White,Multiple children,,110,540,All Paid
+2022,1128,Unenrolled,At least one BIPOC,Single child,,111,211,All Paid
+2022,1158,Unenrolled,At least one BIPOC,Single child,,112,1272,All Paid
+2022,1367,Unenrolled,All White,Single child,,114,451,All FRL
+2022,1388,Unenrolled,At least one BIPOC,Single child,,115,84,All Paid
+2022,1638,Unenrolled,All White,Single child,,116,1117,All Paid
+2022,1853,Unenrolled,At least one BIPOC,Single child,,117,289,All FRL
+2022,1882,Unenrolled,At least one BIPOC,Single child,,118,883,All FRL
+2022,1101,Enrolled,At least one BIPOC,Single child,,119,535,All Paid
+2022,1142,Enrolled,At least one BIPOC,Multiple children,,120,1365,All FRL
+2022,1161,Enrolled,At least one BIPOC,Multiple children,,121,196,All FRL
+2022,1660,Enrolled,All White,Single child,,122,461,All Paid
+2022,2246,Enrolled,All White,Multiple children,,125,1582,All FRL
+2022,2327,Enrolled,At least one BIPOC,Single child,,126,245,All FRL
+2022,2365,Enrolled,At least one BIPOC,Single child,,127,562,All Paid
+2022,2396,Enrolled,All White,Multiple children,,128,1233,All FRL
+2022,2411,Enrolled,At least one BIPOC,Single child,,129,1081,All FRL
+2022,2450,Enrolled,At least one BIPOC,Single child,,130,957,All Paid
+2022,2484,Enrolled,All White,Multiple children,,131,864,All FRL
+2022,1943,Unenrolled,At least one BIPOC,Single child,,132,492,All FRL
+2022,2003,Unenrolled,At least one BIPOC,Single child,,133,136,All Paid
+2022,2020,Unenrolled,At least one BIPOC,Multiple children,,134,52,All Paid
+2022,1987,Unenrolled,At least one BIPOC,Multiple children,,135,224,All FRL
+2022,2036,Unenrolled,All White,Single child,,136,1544,All Paid
+2022,2109,Unenrolled,At least one BIPOC,Multiple children,,137,803,All Paid
+2022,2144,Unenrolled,All White,Multiple children,,138,1910,All FRL
+2022,2169,Unenrolled,All White,Multiple children,,139,1129,All FRL
+2022,2470,Unenrolled,All White,Single child,,140,782,All FRL
+2022,2494,Unenrolled,At least one BIPOC,Multiple children,,141,805,All Paid
+2022,1952,Unenrolled,All White,Single child,,142,1295,All Paid
+2022,2010,Unenrolled,At least one BIPOC,Multiple children,,143,1572,All FRL
+2022,2073,Unenrolled,All White,Single child,,144,171,All FRL
+2022,2167,Unenrolled,All White,Single child,,145,927,All Paid
+2022,2213,Unenrolled,At least one BIPOC,Single child,,146,1149,All Paid
+2022,2325,Unenrolled,At least one BIPOC,Single child,,147,245,All FRL
+2022,2545,Unenrolled,All White,Single child,,148,1823,All Paid
+2022,2566,Unenrolled,At least one BIPOC,Single child,,149,415,All FRL
+2022,1259,Unenrolled,At least one BIPOC,Multiple children,,152,446,All Paid
+2022,2013,Unenrolled,At least one BIPOC,Single child,,154,672,All Paid
+2022,2182,Unenrolled,At least one BIPOC,Single child,,155,369,All Paid
+2022,2238,Enrolled,At least one BIPOC,Single child,,156,510,All Paid
+2022,2368,Enrolled,At least one BIPOC,Single child,,157,1718,All FRL
+2022,2382,Enrolled,All White,Multiple children,,158,233,All Paid
+2022,2395,Enrolled,All White,Multiple children,,159,1139,All Paid
+2022,2430,Unenrolled,At least one BIPOC,Single child,,160,1076,All Paid
+2022,2773,Unenrolled,At least one BIPOC,Multiple children,,162,886,All FRL
+2022,2795,Unenrolled,At least one BIPOC,Single child,,163,1542,All Paid
+2022,2828,Unenrolled,All White,Single child,,164,413,All Paid
+2022,2858,Unenrolled,At least one BIPOC,Single child,,165,454,All FRL
+2022,2896,Unenrolled,At least one BIPOC,Multiple children,,166,1026,All FRL
+2022,2907,Unenrolled,At least one BIPOC,Multiple children,,167,1858,All FRL
+2022,3003,Unenrolled,All White,Multiple children,,168,921,All Paid
+2022,3104,Unenrolled,All White,Single child,,169,1694,All Paid
+2022,3123,Unenrolled,At least one BIPOC,Single child,,170,1342,All Paid
+2022,2709,Unenrolled,All White,Single child,,172,1550,All FRL
+2022,2947,Unenrolled,All White,Single child,,173,1140,All Paid
+2022,3143,Unenrolled,All White,Single child,,174,550,All Paid
+2022,2647,Enrolled,At least one BIPOC,Single child,,175,1112,All Paid
+2022,2747,Enrolled,All White,Single child,,176,965,All Paid
+2022,2790,Enrolled,At least one BIPOC,Multiple children,,178,1642,All Paid
+2022,2815,Enrolled,At least one BIPOC,Multiple children,,179,456,All FRL
+2022,2854,Enrolled,At least one BIPOC,Single child,,180,1242,All Paid
+2022,3105,Enrolled,All White,Single child,,181,1331,All Paid
+2022,2671,Unenrolled,All White,Single child,,182,646,All Paid
+2022,2778,Unenrolled,All White,Single child,,183,1829,All Paid
+2022,2798,Unenrolled,All White,Single child,,184,682,All Paid
+2022,2853,Unenrolled,At least one BIPOC,Multiple children,,185,1718,All Paid
+2022,2888,Unenrolled,All White,Multiple children,,186,1672,All Paid
+2022,2927,Unenrolled,At least one BIPOC,Single child,,187,373,All Paid
+2022,2972,Unenrolled,All White,Single child,,188,1772,All FRL
+2022,2645,Unenrolled,At least one BIPOC,Multiple children,,189,930,All FRL
+2022,2636,Unenrolled,All White,Single child,,190,428,All Paid
+2022,2758,Unenrolled,At least one BIPOC,Multiple children,,191,946,All FRL
+2022,2805,Unenrolled,All White,Multiple children,,192,513,All Paid
+2022,2825,Unenrolled,At least one BIPOC,Multiple children,,193,1425,All Paid
+2022,2864,Unenrolled,At least one BIPOC,Single child,,194,829,All Paid
+2022,2903,Enrolled,At least one BIPOC,Single child,,195,1870,All Paid
+2022,2932,Enrolled,At least one BIPOC,Single child,,196,1637,All Paid
+2022,3068,Enrolled,At least one BIPOC,Multiple children,,198,217,All Paid
+2022,3145,Enrolled,At least one BIPOC,Single child,,199,1025,All FRL
+2022,2894,Unenrolled,At least one BIPOC,Multiple children,,200,1003,All Paid
+2022,1755,Enrolled,All White,Multiple children,,201,1540,All Paid
+2022,3210,Unenrolled,All White,Single child,,202,360,All Paid
+2022,3285,Unenrolled,At least one BIPOC,Multiple children,,203,1236,All FRL
+2022,3355,Unenrolled,At least one BIPOC,Single child,,204,1010,All FRL
+2022,3460,Unenrolled,At least one BIPOC,Single child,,205,1541,All FRL
+2022,3607,Unenrolled,All White,Single child,,206,1040,All Paid
+2022,3794,Enrolled,At least one BIPOC,Multiple children,,207,774,All Paid
+2022,3364,Unenrolled,All White,Multiple children,,208,1383,All Paid
+2022,3738,Enrolled,At least one BIPOC,Single child,,210,1185,All Paid
+2022,3776,Enrolled,At least one BIPOC,Single child,,211,641,All Paid
+2022,3358,Enrolled,All White,Multiple children,,212,878,All Paid
+2022,3429,Enrolled,All White,Multiple children,,213,1039,All Paid
+2022,3711,Enrolled,All White,Multiple children,,214,1912,All FRL
+2022,3698,Enrolled,All White,Single child,,215,1399,All FRL
+2022,3873,Enrolled,At least one BIPOC,Multiple children,,216,530,All FRL
+2022,3909,Enrolled,At least one BIPOC,Multiple children,,217,1959,All FRL
+2022,3617,Unenrolled,All White,Multiple children,,218,262,All Paid
+2022,3784,Unenrolled,All White,Multiple children,,219,1513,All Paid
+2022,3308,Unenrolled,At least one BIPOC,Multiple children,,220,259,All Paid
+2022,3370,Unenrolled,At least one BIPOC,Multiple children,,221,1325,All Paid
+2022,3464,Unenrolled,At least one BIPOC,Single child,,222,1526,All FRL
+2022,3750,Unenrolled,At least one BIPOC,Single child,,223,1134,All FRL
+2022,3197,Unenrolled,All White,Multiple children,,224,1969,All Paid
+2022,3409,Unenrolled,All White,Single child,,225,1146,All Paid
+2022,3502,Unenrolled,All White,Single child,,226,71,All Paid
+2022,3760,Unenrolled,At least one BIPOC,Single child,,227,596,All Paid
+2022,3824,Enrolled,At least one BIPOC,Single child,,228,962,All Paid
+2022,3253,Unenrolled,All White,Single child,,231,1055,All FRL
+2022,3401,Unenrolled,At least one BIPOC,Single child,,232,666,All FRL
+2022,3453,Unenrolled,At least one BIPOC,Single child,,233,330,All Paid
+2022,3705,Unenrolled,All White,Single child,,234,257,All FRL
+2022,2923,Enrolled,At least one BIPOC,Single child,,235,252,All FRL
+2022,2556,Unenrolled,All White,Multiple children,,236,1783,All Paid
+2022,3986,Unenrolled,All White,Single child,,237,1668,All FRL
+2022,4010,Unenrolled,At least one BIPOC,Single child,,238,171,All Paid
+2022,4040,Unenrolled,At least one BIPOC,Single child,,239,501,All FRL
+2022,4052,Unenrolled,At least one BIPOC,Single child,,240,1444,All Paid
+2022,4101,Unenrolled,At least one BIPOC,Single child,,241,1621,All Paid
+2022,4527,Unenrolled,At least one BIPOC,Multiple children,,242,600,All Paid
+2022,4377,Unenrolled,All White,Single child,,243,68,All Paid
+2022,4420,Unenrolled,At least one BIPOC,Single child,,244,670,All Paid
+2022,4606,Unenrolled,At least one BIPOC,Single child,,245,1183,All FRL
+2022,4718,Unenrolled,All White,Single child,,246,1681,All Paid
+2022,4919,Unenrolled,At least one BIPOC,Single child,,247,708,All Paid
+2022,4922,Unenrolled,At least one BIPOC,Single child,,248,778,All Paid
+2022,4294,Enrolled,At least one BIPOC,Multiple children,,249,77,All Paid
+2022,4485,Enrolled,All White,Multiple children,,250,1374,All FRL
+2022,4169,Unenrolled,All White,Multiple children,,251,229,All FRL
+2022,4193,Unenrolled,All White,Single child,,252,433,All Paid
+2022,4456,Unenrolled,All White,Multiple children,,253,1549,All Paid
+2022,4509,Unenrolled,At least one BIPOC,Multiple children,,254,1752,All Paid
+2022,4552,Unenrolled,All White,Multiple children,,255,1146,All Paid
+2022,4650,Unenrolled,At least one BIPOC,Multiple children,,256,1160,All Paid
+2022,4691,Unenrolled,All White,Multiple children,,257,1227,All Paid
+2022,4734,Unenrolled,All White,Multiple children,,258,140,All Paid
+2022,4785,Enrolled,At least one BIPOC,Single child,,259,410,All FRL
+2022,4832,Enrolled,At least one BIPOC,Multiple children,,261,995,All FRL
+2022,4372,Unenrolled,At least one BIPOC,Multiple children,,262,1266,All Paid
+2022,4480,Unenrolled,All White,Single child,,263,1827,All Paid
+2022,4619,Unenrolled,At least one BIPOC,Multiple children,,264,1089,All Paid
+2022,4920,Unenrolled,All White,Single child,,265,258,All Paid
+2022,4541,Enrolled,At least one BIPOC,Multiple children,,266,818,All FRL
+2022,4110,Enrolled,At least one BIPOC,Single child,,268,104,All Paid
+2022,4120,Enrolled,At least one BIPOC,Multiple children,,269,416,All FRL
+2022,3788,Enrolled,At least one BIPOC,Multiple children,,270,1465,All FRL
+2022,4361,Enrolled,All White,Multiple children,,271,1814,All FRL
+2022,4689,Enrolled,At least one BIPOC,Multiple children,,272,109,All FRL
+2022,4820,Enrolled,At least one BIPOC,Single child,,273,1772,All Paid
+2022,4843,Enrolled,At least one BIPOC,Multiple children,,274,321,All Paid
+2022,4912,Unenrolled,At least one BIPOC,Single child,,275,1197,All Paid
+2022,2278,Enrolled,At least one BIPOC,Single child,,276,758,All Paid
+2022,4962,Enrolled,All White,Single child,,277,1202,All Paid
+2022,4989,Unenrolled,All White,Multiple children,,278,955,All Paid
+2022,4996,Unenrolled,At least one BIPOC,Multiple children,,279,1021,All Paid
+2022,5027,Unenrolled,All White,Single child,,281,822,All Paid
+2022,5039,Unenrolled,At least one BIPOC,Single child,,283,1727,All Paid
+2022,5054,Unenrolled,All White,Single child,,284,596,All Paid
+2022,5088,Unenrolled,All White,Single child,,285,699,All FRL
+2022,5118,Enrolled,All White,Multiple children,,286,1222,All Paid
+2022,5176,Enrolled,At least one BIPOC,Single child,,287,1642,All FRL
+2022,5215,Enrolled,At least one BIPOC,Multiple children,,288,177,All FRL
+2022,5231,Enrolled,All White,Multiple children,,289,1905,All Paid
+2022,5253,Enrolled,At least one BIPOC,Multiple children,,290,500,All Paid
+2022,5316,Unenrolled,All White,Single child,,291,558,All FRL
+2022,5399,Unenrolled,All White,Single child,,292,1190,All Paid
+2022,5402,Unenrolled,At least one BIPOC,Single child,,293,428,All FRL
+2022,5454,Unenrolled,All White,Single child,,294,1732,All Paid
+2022,5517,Unenrolled,At least one BIPOC,Multiple children,,295,603,All FRL
+2022,5548,Unenrolled,All White,Single child,,296,846,All Paid
+2022,5560,Unenrolled,All White,Single child,,297,1964,All Paid
+2022,5633,Unenrolled,All White,Single child,,298,1924,All Paid
+2022,5734,Enrolled,At least one BIPOC,Multiple children,,299,202,All FRL
+2022,5761,Enrolled,At least one BIPOC,Multiple children,,300,1152,All FRL
+2022,5391,Unenrolled,All White,Multiple children,,301,1885,All FRL
+2022,5430,Unenrolled,All White,Multiple children,,302,1996,All Paid
+2022,5482,Unenrolled,At least one BIPOC,Multiple children,,303,1484,All Paid
+2022,5506,Unenrolled,At least one BIPOC,Single child,,304,982,All FRL
+2022,2227,Enrolled,At least one BIPOC,Single child,,305,1706,All Paid
+2022,5599,Enrolled,At least one BIPOC,Single child,,306,1061,All FRL
+2022,5655,Enrolled,At least one BIPOC,Single child,,308,646,All FRL
+2022,5697,Enrolled,At least one BIPOC,Single child,,309,1558,All FRL
+2022,4791,Enrolled,At least one BIPOC,Single child,,310,1669,All Paid
+2022,5353,Unenrolled,At least one BIPOC,Multiple children,,311,299,All FRL
+2022,5435,Unenrolled,All White,Single child,,312,1468,All Paid
+2022,5500,Unenrolled,All White,Multiple children,,313,880,All Paid
+2022,5532,Unenrolled,All White,Single child,,314,1368,All FRL
+2022,5559,Unenrolled,All White,Single child,,315,1098,All FRL
+2022,5604,Unenrolled,All White,Single child,,316,1678,All Paid
+2022,5675,Unenrolled,At least one BIPOC,Single child,,317,610,All Paid
+2022,5776,Enrolled,At least one BIPOC,Multiple children,,319,309,All Paid
+2022,5807,Enrolled,At least one BIPOC,Multiple children,,320,658,All Paid
+2022,5814,Enrolled,At least one BIPOC,Multiple children,,321,396,All FRL
+2022,5816,Enrolled,All White,Multiple children,,322,1546,All Paid
+2022,5431,Unenrolled,All White,Single child,,323,903,All Paid
+2022,5481,Unenrolled,At least one BIPOC,Multiple children,,324,1215,All FRL
+2022,5536,Unenrolled,All White,Multiple children,,325,1426,All FRL
+2022,5628,Unenrolled,All White,Multiple children,,327,505,All Paid
+2022,5671,Unenrolled,All White,Single child,,328,1912,All Paid
+2022,5735,Unenrolled,All White,Single child,,329,1187,All FRL
+2022,5760,Unenrolled,At least one BIPOC,Multiple children,,330,721,All FRL
+2022,5789,Enrolled,All White,Single child,,331,167,All Paid
+2022,3847,Enrolled,At least one BIPOC,Multiple children,,332,717,All FRL
+2022,6181,Unenrolled,At least one BIPOC,Single child,,333,1431,All FRL
+2022,6323,Unenrolled,All White,Multiple children,,335,810,All Paid
+2022,5845,Enrolled,At least one BIPOC,Multiple children,,336,251,All Paid
+2022,5911,Enrolled,At least one BIPOC,Single child,,338,1493,All Paid
+2022,5917,Enrolled,At least one BIPOC,Multiple children,,339,1532,All FRL
+2022,5937,Enrolled,At least one BIPOC,Single child,,340,1225,All FRL
+2022,5976,Unenrolled,All White,Multiple children,,341,114,All Paid
+2022,6029,Unenrolled,All White,Multiple children,,342,945,All Paid
+2022,6063,Unenrolled,All White,Single child,,343,951,All Paid
+2022,6070,Unenrolled,All White,Single child,,344,1004,All Paid
+2022,6164,Unenrolled,At least one BIPOC,Single child,,345,641,All FRL
+2022,4379,Unenrolled,All White,Multiple children,,346,1416,All Paid
+2022,5893,Enrolled,All White,Single child,,347,1077,All FRL
+2022,4758,Enrolled,At least one BIPOC,Single child,,348,102,All FRL
+2022,5914,Enrolled,All White,Multiple children,,349,531,All Paid
+2022,5924,Enrolled,At least one BIPOC,Multiple children,,350,314,All FRL
+2022,5978,Unenrolled,At least one BIPOC,Single child,,352,1400,All Paid
+2022,6031,Unenrolled,All White,Single child,,353,428,All Paid
+2022,6069,Unenrolled,At least one BIPOC,Single child,,354,1513,All Paid
+2022,6097,Unenrolled,All White,Single child,,355,1962,All Paid
+2022,6237,Unenrolled,All White,Single child,,356,610,All FRL
+2022,6064,Unenrolled,All White,Multiple children,,357,1730,All Paid
+2022,6091,Unenrolled,All White,Multiple children,,358,96,All FRL
+2022,4653,Enrolled,At least one BIPOC,Multiple children,,359,142,All Paid
+2022,5806,Enrolled,All White,Single child,,360,1569,All Paid
+2022,6906,Enrolled,At least one BIPOC,Multiple children,,361,1973,All FRL
+2022,6939,Enrolled,At least one BIPOC,Multiple children,,362,1448,All FRL
+2022,7041,Unenrolled,At least one BIPOC,Multiple children,,363,565,All Paid
+2022,6650,Unenrolled,At least one BIPOC,Multiple children,,364,199,All Paid
+2022,6696,Unenrolled,At least one BIPOC,Multiple children,,365,149,All Paid
+2022,7052,Unenrolled,At least one BIPOC,Single child,,366,777,All Paid
+2022,6703,Enrolled,At least one BIPOC,Multiple children,,367,1053,All FRL
+2022,6853,Enrolled,At least one BIPOC,Single child,,368,1093,All FRL
+2022,6949,Enrolled,At least one BIPOC,Multiple children,,369,684,All Paid
+2022,7031,Unenrolled,At least one BIPOC,Multiple children,,370,1147,All Paid
+2022,6392,Unenrolled,All White,Single child,,371,1936,All Paid
+2022,6401,Unenrolled,At least one BIPOC,Single child,,373,543,All FRL
+2022,6483,Unenrolled,At least one BIPOC,Single child,,375,1548,All Paid
+2022,6510,Unenrolled,At least one BIPOC,Single child,,376,404,All FRL
+2022,6835,Unenrolled,At least one BIPOC,Single child,,377,1665,All Paid
+2022,7043,Unenrolled,All White,Single child,,379,1652,All Paid
+2022,6933,Unenrolled,At least one BIPOC,Single child,,380,481,All Paid
+2022,6963,Unenrolled,All White,Single child,,381,1359,All FRL
+2022,7020,Unenrolled,At least one BIPOC,Single child,,382,95,All FRL
+2022,5846,Enrolled,At least one BIPOC,Multiple children,,383,1489,All Paid
+2022,3456,Unenrolled,All White,Multiple children,,384,1837,All Paid
+2022,6525,Unenrolled,At least one BIPOC,Single child,,385,183,All FRL
+2022,5691,Enrolled,At least one BIPOC,Single child,,386,491,All Paid
+2022,6886,Unenrolled,All White,Multiple children,,387,275,All Paid
+2022,7032,Unenrolled,All White,Single child,,389,1341,All Paid
+2022,7054,Unenrolled,All White,Multiple children,,390,821,All FRL
+2022,7119,Unenrolled,At least one BIPOC,Single child,,391,1363,All Paid
+2022,7166,Unenrolled,All White,Single child,,392,554,All Paid
+2022,5716,Unenrolled,All White,Single child,,393,322,All FRL
+2022,7092,Unenrolled,All White,Single child,,394,605,All Paid
+2022,7103,Unenrolled,All White,Single child,,395,117,All FRL
+2022,7172,Unenrolled,All White,Single child,,396,379,All Paid
+2022,7087,Enrolled,At least one BIPOC,Multiple children,,397,827,All Paid
+2022,7100,Enrolled,At least one BIPOC,Single child,,398,1356,All Paid
+2022,7139,Enrolled,At least one BIPOC,Multiple children,,399,1571,All Paid
+2022,7258,Unenrolled,All White,Single child,,400,232,All Paid

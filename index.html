@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Enrollment Status, Reduced Lunch Status and BIPOC Distribution
+    </title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <script src="https://unpkg.com/d3-svg-annotation@2"></script>
+  </head>
+  <body>
+    <h2>
+      Household EdConnect Program Enrollment Status, Reduced Lunch Status and
+      BIPOC Distribution by Year
+    </h2>
+    <div class="main-container">
+      <div class="text-container">
+        <h2>Introduction:</h2>
+        <p>
+          In a world entrenched in a constant debate regarding race, income and
+          equality, it is more important than ever to understand the
+          relationship between these three sectors of society. In this analysis,
+          an examination is done on the HCS EdConnect internet broadband
+          initiative in the local community of Chattanooga, Tennessee. The
+          dataset provided statistics from the outcomes of household surveys,
+          which included household demographics such as the race of the children
+          in families, the household’s status for free/reduced lunch, and,
+          subsequently, the household’s enrollment in the HCS EdConnect program.
+          The household’s enrollment in the EdConnect initative is directly
+          correlated to their status in the free/reduced lunch program because
+          eligibility for the internet broadband service was dependent on a
+          family’s economic status. The data presented in these charts show the
+          relationships between race, or in the naming convention of the
+          dataset/survey, “BIPOC Status,” and their enrollment in a free lunch
+          program as well as in the HCS EdConnect program itself.
+        </p>
+
+        <h2>Methodology:</h2>
+        <p>
+          There is a brushable scatter-plot on the right where each point
+          represents every family that had a response to questions regarding
+          their demographics in the survey. Since the IDs that were already
+          incorporated into the dataset ranged too significantly in numbers, the
+          X and Y axes were created from generating numbers and assigning them
+          to each row in the dataset. That way, it was plausible to map out
+          every single datapoint on a scatter-plot. In order to maintain
+          integrity of the data, these numbers were generated at random and
+          every point was mapped to look identical, so users are not influenced
+          by color or size when they brush to select families.
+        </p>
+        <p>
+          The first stacked bar chart shows the relationship between a
+          household’s enrollment status in the EdConnect program and their race
+          demographic. The dataset categorized families into two sectors: “<span
+            class="highlight-trigger"
+            data-highlight-class="white"
+            >All White</span
+          >” and “<span class="highlight-trigger" data-highlight-class="bipoc"
+            >At Least One BIPOC child</span
+          >.” The breakdown of the brushed over families into these two
+          categories can be seen in the pie chart below the stacked bar chart.
+          Noticeably, regardless of the number of families brushed over, there
+          is a consistent pattern of a higher percentage of BIPOC families that
+          are enrolled in the EdConnect Program than families categorized as All
+          White.
+        </p>
+        <p>
+          The second stacked bar chart represents the percentage of free/reduced
+          lunch status compared to all paid lunch status between All White
+          categorized families and families with at least one BIPOC child. It is
+          a little less evident, but nonetheless still true, that there is a
+          higher percentage of free/reduced lunch BIPOC families among all BIPOC
+          families than there are for white families with the same status among
+          all white families.
+        </p>
+
+        <h2>Takeaways</h2>
+        <p>
+          Although this data is nowhere near enough to make concrete
+          conclusions, it does display a pattern that seems to be recurring
+          throughout all of the United States. We’re seeing a
+          <a
+            href="https://www.google.com/url?q=https://www.statista.com/statistics/200476/us-poverty-rate-by-ethnic-group/&sa=D&source=docs&ust=1701928287406608&usg=AOvVaw0Usy7_52znWw6Ldv8mnTmx"
+            target="_blank"
+            >higher percentage</a
+          >
+          of BIPOC low-income families than white families throughout the entire
+          country and must work to deconstruct the social dynamic that
+          perpetuates this cycle. It is more important than ever to actively
+          participate in politics and demonstrate to lawmakers the change that
+          is necessary. For more information, visit
+          <a
+            href="https://www.google.com/url?q=https://www.brookings.edu/articles/time-will-not-heal-5-ways-to-address-the-inheritance-of-black-poverty-starting-now/&sa=D&source=docs&ust=1701928274096779&usg=AOvVaw1ofQIgHwoOJh7p-oI-if_p"
+            target="_blank"
+            >The Brookings Institution</a
+          >
+          or
+          <a
+            href="https://www.google.com/url?q=https://www.cbpp.org/research/poverty-and-inequality/more-than-4-in-10-children-in-renter-households-face-food-andor&sa=D&source=docs&ust=1701928324544532&usg=AOvVaw0lIGn09ufJOj4hwfAjpgTO"
+            target="_blank"
+            >CBPP</a
+          >.
+        </p>
+      </div>
+
+      <div class="charts-container">
+        <div class="charts-header">
+          <div class="year-selection">
+            <label for="year-select">Choose a Year:</label>
+            <select id="year-select"></select>
+          </div>
+        </div>
+        <div id="tooltip" class="tooltip"></div>
+        <div id="scatterplot"></div>
+        <div class="chart-row">
+          <div id="bar-chart">
+            <label
+              >What is the relationship between Enrollment Status and the race
+              of household?</label
+            >
+          </div>
+
+          <div id="pie-chart">
+            <label> What are the household types being analyzed?</label>
+          </div>
+          <div id="vega-lite-bar-chart"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var spec = {
+        $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+        description:
+          "Stacked bar chart showing the relationship between BIPOC status and Free/Reduced Lunch status",
+        data: {
+          url: "cleaned_data.csv",
+        },
+        mark: "bar",
+        encoding: {
+          x: {
+            field: "BIPOC",
+            type: "nominal",
+            axis: { title: "BIPOC Status" },
+          },
+          y: {
+            aggregate: "count",
+            type: "quantitative",
+            axis: { title: "Count" },
+          },
+          color: {
+            field: "Free_Or_Red",
+            type: "nominal",
+            legend: { title: "Free or Reduced Status" },
+          },
+        },
+      };
+      vegaEmbed("#vega-lite-bar-chart", spec);
+    </script>
+
+    <script src="script.js"></script>
+  </body>
+</html>
